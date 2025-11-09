@@ -276,7 +276,7 @@ Row | Step | Description | Completed
 --- | --- | --- | ---
 1 | 3-1 | 1st Favorite emoji | 👀
 2 | 3-2 | Link to `commit #1 from Github.com` |[commit #1 from Github.com](https://github.com/Tihu-0309/learn-git-milestones-TianningHu/commit/3476f96044245204e9486165fed60b8943611ef9)
-3 | 3-3 | Link to markdown tables docs |
+3 | 3-3 | Link to markdown tables docs |[How to display Table in README.md file in Github?](https://stackoverflow.com/questions/39378020/how-to-display-table-in-readme-md-file-in-github)
 4 | 3-4 | What does `log` do? |
 5 | 4-1 | 2nd Favorite emoji |
 6 | 4-2 | Link to `commit #2 from Github Desktop` |

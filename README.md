@@ -280,7 +280,7 @@ Row | Step | Description | Completed
 4 | 3-4 | What does `log` do? |Display commit history and of a repository that records the changes made to the project in chronolgical order.
 5 | 4-1 | 2nd Favorite emoji |🐈‍⬛
 6 | 4-2 | Link to `commit #2 from Github Desktop` |[commit #2 from Github Desktop](https://github.com/Tihu-0309/learn-git-milestones-TianningHu/commit/f00cf907aa56cd5fec0215195d0c78dda78b6355)
-7 | 5-1 | Full path to your working directory |
+7 | 5-1 | Full path to your working directory |[Current Working Directory](/Users/tihu/Documents/GitHub/learn-git-milestones-TianningHu)
 8 | 5-2 | Link to `commit #3 from CLI` |
 9 | 6-1 | Link to `first-website` github.com repo page |
 10 | 7-1 | Link to `first-website` github.io "project site" |

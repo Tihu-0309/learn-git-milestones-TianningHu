@@ -283,7 +283,7 @@ Row | Step | Description | Completed
 7 | 5-1 | Full path to your working directory |[Working Directory](/Users/tihu/Documents/GitHub/learn-git-milestones-TianningHu)
 8 | 5-2 | Link to `commit #3 from CLI` |[Commit #3 from CLI](https://github.com/Tihu-0309/learn-git-milestones-TianningHu/commit/6641d7e6423adb5db12a76867fcdc07601064735)
 9 | 6-1 | Link to `first-website` github.com repo page |[first-website](https://github.com/Tihu-0309/first-website)
-10 | 7-1 | Link to `first-website` github.io "project site" |
+10 | 7-1 | Link to `first-website` github.io "project site" |[live first-website](https://tihu-0309.github.io/first-website/)
 
 
 
